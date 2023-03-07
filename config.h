@@ -90,3 +90,6 @@
 
 /* Version number of package */
 #define VERSION "2.2.1"
+
+/* Define to 1 if you compile to Miyoo. */
+#define MIYOO 1

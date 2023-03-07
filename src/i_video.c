@@ -2160,10 +2160,13 @@ void I_InitGraphics(void)
     {
         int w, h;
 
+        #ifndef MIYOO
+        //Miyoo with tv output nothing is shown if I_AutoAdjustSettings is executed
         if (autoadjust_video_settings)
         {
             I_AutoAdjustSettings();
         }
+        #endif
 
         w = screen_width;
         h = screen_height;
