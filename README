@@ -1,3 +1,8 @@
+How to compile for miyoo using dockers SDK
+
+./autogen.sh CC=/opt/miyoo/bin/arm-linux-gcc --host --host-alias LIBS="$(pkg-config --libs sdl SDL_mixer)" CFLAGS="$(pkg-config --cflags sdl SDL_mixer)"
+make
+
 
 Chocolate Doom aims to accurately reproduce the original DOS version of
 Doom and other games based on the Doom engine in a form that can be

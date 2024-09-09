@@ -5,8 +5,8 @@
 
 # Tools needed:
 
-CC = arm-linux-gcc
-STRIP = arm-linux-strip
+CC = /opt/miyoo/bin/arm-linux-gcc
+STRIP = strip
 
 # Package name and version number:
 
