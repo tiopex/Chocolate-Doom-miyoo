@@ -3,7 +3,7 @@ d_loop.o: d_loop.c \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/features.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/uClibc_config.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/sys/cdefs.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stddef.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stddef.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/waitflags.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/waitstatus.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/endian.h \
@@ -28,11 +28,11 @@ d_loop.o: d_loop.c \
  doomfeatures.h d_event.h doomtype.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/strings.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/inttypes.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdint.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdint.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/stdint.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/wchar.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/limits.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/syslimits.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/limits.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/syslimits.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/limits.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/posix1_lim.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/local_lim.h \
@@ -45,7 +45,7 @@ d_loop.o: d_loop.c \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/stdio.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/uClibc_stdio.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/wchar.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdarg.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdarg.h \
  d_ticcmd.h sha1.h i_system.h i_timer.h i_video.h m_argv.h m_fixed.h \
  net_client.h net_gui.h net_io.h net_query.h net_server.h net_sdl.h \
  net_loop.h
@@ -58,7 +58,7 @@ d_loop.o: d_loop.c \
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/sys/cdefs.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stddef.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stddef.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/waitflags.h:
 
@@ -112,15 +112,15 @@ doomtype.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/inttypes.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdint.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdint.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/stdint.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/wchar.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/limits.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/limits.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/syslimits.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/syslimits.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/limits.h:
 
@@ -148,7 +148,7 @@ net_defs.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/wchar.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdarg.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdarg.h:
 
 d_ticcmd.h:
 

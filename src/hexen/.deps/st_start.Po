@@ -1,11 +1,11 @@
 st_start.o: st_start.c \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdarg.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdarg.h \
  ../../config.h h2def.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/stdio.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/features.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/uClibc_config.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/sys/cdefs.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stddef.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stddef.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/types.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/wordsize.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/typesizes.h \
@@ -35,10 +35,10 @@ st_start.o: st_start.c \
  st_start.h ../../src/d_ticcmd.h ../../src/doomtype.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/strings.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/inttypes.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdint.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdint.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/stdint.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/limits.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/syslimits.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/limits.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/syslimits.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/limits.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/posix1_lim.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/local_lim.h \
@@ -54,7 +54,7 @@ st_start.o: st_start.c \
  ../../src/z_zone.h sounds.h ../../src/i_sound.h ../../src/i_system.h \
  ../../src/d_event.h ../../src/i_video.h ../../src/i_videohr.h s_sound.h
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdarg.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdarg.h:
 
 ../../config.h:
 
@@ -68,7 +68,7 @@ h2def.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/sys/cdefs.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stddef.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stddef.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/types.h:
 
@@ -132,13 +132,13 @@ st_start.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/inttypes.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdint.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdint.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/stdint.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/limits.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/limits.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/syslimits.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/syslimits.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/limits.h:
 

@@ -3,7 +3,7 @@ p_maputl.o: p_maputl.c \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/features.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/uClibc_config.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/sys/cdefs.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stddef.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stddef.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/waitflags.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/waitstatus.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/endian.h \
@@ -25,8 +25,8 @@ p_maputl.o: p_maputl.c \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/pthreadtypes.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/alloca.h \
  ../../src/m_bbox.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/limits.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/syslimits.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/limits.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/syslimits.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/limits.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/posix1_lim.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/local_lim.h \
@@ -40,12 +40,12 @@ p_maputl.o: p_maputl.c \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/uClibc_stdio.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/wchar.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/wchar.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdarg.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdarg.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/string.h \
  ../../src/doomtype.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/strings.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/inttypes.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdint.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdint.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/stdint.h \
  ../../src/i_timer.h ../../src/d_mode.h ../../src/doomtype.h doomstat.h \
  doomdata.h ../../src/d_loop.h ../../src/net_defs.h ../../src/d_ticcmd.h \
@@ -63,7 +63,7 @@ p_maputl.o: p_maputl.c \
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/sys/cdefs.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stddef.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stddef.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/waitflags.h:
 
@@ -107,9 +107,9 @@ p_maputl.o: p_maputl.c \
 
 ../../src/m_bbox.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/limits.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/limits.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/syslimits.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/syslimits.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/limits.h:
 
@@ -139,7 +139,7 @@ doomdef.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/wchar.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdarg.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdarg.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/string.h:
 
@@ -149,7 +149,7 @@ doomdef.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/inttypes.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdint.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdint.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/stdint.h:
 

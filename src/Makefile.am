@@ -148,7 +148,6 @@ EXTRA_LIBS =                                               \
                $(top_builddir)/pcsound/libpcsound.a        \
                $(top_builddir)/opl/libopl.a                \
                @LDFLAGS@                                   \
-               @SDL_LIBS@                                  \
                @SDLMIXER_LIBS@                             \
                @SDLNET_LIBS@
 
@@ -210,7 +209,7 @@ else
 endif
 @PROGRAM_PREFIX@setup_LDADD = setup/libsetup.a                             \
                         $(top_builddir)/textscreen/libtextscreen.a   \
-                        @LDFLAGS@ @SDL_LIBS@ @SDLMIXER_LIBS@ @SDLNET_LIBS@
+                        @LDFLAGS@ @SDLMIXER_LIBS@ @SDLNET_LIBS@
 
 EXTRA_DIST =                        \
         icon.c                      \

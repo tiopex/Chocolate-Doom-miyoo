@@ -35,7 +35,7 @@ fi
 
 dnl Search for SDL ...
 
-AM_PATH_SDL(1.1.3)
+
 
 # Add the SDL compiler flags to the default compiler flag variables. 
 # It is important to do this now, before checking for headers and

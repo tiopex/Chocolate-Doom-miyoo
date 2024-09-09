@@ -3,7 +3,7 @@ m_menu.o: m_menu.c \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/features.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/uClibc_config.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/sys/cdefs.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stddef.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stddef.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/waitflags.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/waitstatus.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/endian.h \
@@ -31,16 +31,16 @@ m_menu.o: m_menu.c \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/uClibc_stdio.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/wchar.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/wchar.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdarg.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdarg.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/stdio_lim.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/string.h \
  ../../src/doomtype.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/strings.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/inttypes.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdint.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdint.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/stdint.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/limits.h \
- /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/syslimits.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/limits.h \
+ /opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/syslimits.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/limits.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/posix1_lim.h \
  /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/local_lim.h \
@@ -52,12 +52,12 @@ m_menu.o: m_menu.c \
  ../../src/doomkeys.h dstrings.h d_englsh.h d_main.h ../../src/deh_main.h \
  ../../src/doomfeatures.h ../../src/deh_str.h ../../src/sha1.h \
  ../../src/i_swap.h \
- /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_endian.h \
- /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_stdinc.h \
- /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_config.h \
- /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_platform.h \
- /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/begin_code.h \
- /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/close_code.h \
+ /opt/miyoo/bin/../arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_endian.h \
+ /opt/miyoo/bin/../arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_stdinc.h \
+ /opt/miyoo/bin/../arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_config.h \
+ /opt/miyoo/bin/../arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_platform.h \
+ /opt/miyoo/bin/../arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/begin_code.h \
+ /opt/miyoo/bin/../arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/close_code.h \
  ../../src/i_system.h ../../src/d_ticcmd.h ../../src/d_event.h \
  ../../src/i_video.h ../../src/z_zone.h ../../src/v_video.h \
  ../../src/v_patch.h ../../src/w_wad.h ../../src/w_file.h r_local.h \
@@ -78,7 +78,7 @@ m_menu.o: m_menu.c \
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/sys/cdefs.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stddef.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stddef.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/waitflags.h:
 
@@ -134,7 +134,7 @@ doomdef.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/wchar.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdarg.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdarg.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/bits/stdio_lim.h:
 
@@ -146,13 +146,13 @@ doomdef.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/inttypes.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include/stdint.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include/stdint.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/stdint.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/limits.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/limits.h:
 
-/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/7.3.0/include-fixed/syslimits.h:
+/opt/miyoo/lib/gcc/arm-miyoo-linux-uclibcgnueabi/9.4.0/include-fixed/syslimits.h:
 
 /opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/limits.h:
 
@@ -192,17 +192,17 @@ d_main.h:
 
 ../../src/i_swap.h:
 
-/opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_endian.h:
+/opt/miyoo/bin/../arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_endian.h:
 
-/opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_stdinc.h:
+/opt/miyoo/bin/../arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_stdinc.h:
 
-/opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_config.h:
+/opt/miyoo/bin/../arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_config.h:
 
-/opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_platform.h:
+/opt/miyoo/bin/../arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/SDL_platform.h:
 
-/opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/begin_code.h:
+/opt/miyoo/bin/../arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/begin_code.h:
 
-/opt/miyoo/arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/close_code.h:
+/opt/miyoo/bin/../arm-miyoo-linux-uclibcgnueabi/sysroot/usr/include/SDL/close_code.h:
 
 ../../src/i_system.h:
 
